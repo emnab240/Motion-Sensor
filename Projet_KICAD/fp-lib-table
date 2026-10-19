@@ -1,4 +1,5 @@
 (fp_lib_table
 	(version 7)
-	(lib (name "ALibrary_footprint") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ALibrary_footprint.pretty") (options "") (descr ""))
+	(lib (name "Capteurs_Parking") (type "KiCad") (uri "${KIPRJMOD}/Capteurs_Parking.pretty") (options "") (descr ""))
+	(lib (name "Protection_TPS") (type "KiCad") (uri "${KIPRJMOD}/Librairies/ul_TPS259470ARPWR/KiCADv6/footprints.pretty") (options "") (descr ""))
 )
