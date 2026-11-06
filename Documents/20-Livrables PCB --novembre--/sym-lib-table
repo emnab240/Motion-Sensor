@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Capteurs_Parking") (type "KiCad") (uri "${KIPRJMOD}/Librairies/Capteurs_Parking.kicad_sym") (options "") (descr "Bibliothèque locale au projet V1"))
+	(lib (name "Protection_TPS") (type "KiCad") (uri "${KIPRJMOD}/Librairies/Protection_TPS.kicad_sym") (options "") (descr "Bibliothèque locale au projet V1"))
+	(lib (name "TPS25940 (Protection TPS 2.0)") (type "KiCad") (uri "${KIPRJMOD}/Librairies/TPS25940/TPS25940.kicad_sym") (options "") (descr ""))
+)
